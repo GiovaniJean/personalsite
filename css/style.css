@@ -10,7 +10,7 @@ p{
 }
 
 hr{
-  border: dotted #E0D8B0 6px;
+  border: dotted black 6px;
   border-bottom: none;
   width: 4%;
   margin: 100px auto;
@@ -96,7 +96,7 @@ a:hover{
 
 .top-container {
   background-color: #F3E9DD;
-  height: 709px;
+  height: 724px;
   position: relative;
   padding-top: 100px;
 }
@@ -121,6 +121,24 @@ a:hover{
   position: absolute;
   right: 300px;
   top: 40px;
+}
+
+.navbar{
+  background-color: #F3E9DD;
+}
+
+
+.navbar-brand{
+color: inherit;
+font-size: 2rem;
+font-weight: bolder;
+}
+
+
+.nav-link{
+color: inherit;
+padding: 10px 23px 10px;
+
 }
 
 .btn {
